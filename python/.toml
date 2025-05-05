@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "PasswordCrackerSHA256"
+version = "0.1.0"
+description = "Asynchronous SHA256 Password Cracker in Python"
+authors = [
+  {name="Jakub Pastuszka", email="jaku6p@gmail.com"}
+]
